@@ -1,0 +1,3 @@
+[submodule "submodules/FSU-envs"]
+	path = submodules/FSU-envs
+	url = git@github.com:jstriker87/FSU-envs.git
